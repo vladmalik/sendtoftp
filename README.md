@@ -1,12 +1,13 @@
-Right-click > Send To FTP > Send to Android device
+Right-click file > Send to > FTP > Send to Android
 ==============================================================
 
-Batch file to send files to FTP server using contenxt SendTo command in Windows
+Batch file sends file to FTP server. Once file is uploaded (alas, no progress indicator), file opens automatically in the browser. Once there, you can use the "Chrome to Android" or "Fox to Android" extension shortcut to send this file directly to your Android device. If the file is a PDF, it will automatically open in the Acrobat app on the phone. Total 4 click from desktop to open on phone.
 
-1. In command prompt, run "shell:sendto" to open SendTo folder
-2. Create .bat file and insert contents of sendtoftp.bat
-3. Replace USERNAME, PASSWORDS, and SERVER with your info
+Installation instructions
+--------------------------
 
-You will now be able to right-click any file > Send to > FTP
+1. In command prompt, run "shell:sendto" to open Send To folder
+2. Create FTP.bat file and insert contents of sendtoftp.bat
+3. Replace USERNAME, PASSWORDS, and SERVER with your info. You can change your browser to Chrome if you wish.
 
-Once this is done and the file is open in your browser, you can use the "Chrome to Android" or "Fox to Android" extension to open this file on your Android device.
+You will now be able to right-click any file and send it to FTP.
