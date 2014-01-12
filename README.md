@@ -1,5 +1,5 @@
-sendtoftp
-=========
+Right-click > Send To FTP > Send to Android device
+==============================================================
 
 Batch file to send files to FTP server using contenxt SendTo command in Windows
 
