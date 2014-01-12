@@ -1,5 +1,5 @@
-Windows Batch file that allow you to Right-click > Send to > FTP > Send to Android > Opens automatically on Android
-======================================================================================================================
+From PDF on your desktop to open on Android device in 4 clicks
+==================================================================
 
 Problem: You have a PDF file on your desktop. You want to continue reading it on your Android device.
 
