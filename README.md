@@ -3,9 +3,9 @@ From PDF on your desktop to open on Android device in 4 clicks
 
 Problem: You have a PDF file on your desktop. You want to continue reading it on your Android device.
 
-sendtoftp.bat allows you to upload any file to your FTP server via Right-click > Send to > FTP. Once the file is uploaded (alas, no progress indicator), file will open automatically in the browser. 
+sendtoftp.bat allows you to upload any file to your FTP server via Right-click > Send to > FTP. Once the file is uploaded (alas, no progress indicator), file will open automatically in your desktop browser. 
 
-Once you're in the browser, you can use the "Chrome to Android" or "Fox to Android" extension to open the file on your Android device. If the file is a PDF, it will automatically open in the Acrobat Reader app on the phone.
+From there, you can use the "Chrome to Android" or "Fox to Android" extension to send the file to your Android device. If the file is a PDF, it will automatically open in the Acrobat Reader app on the phone.
 
 Entire process is 4 clicks, from desktop to open on device.
 
