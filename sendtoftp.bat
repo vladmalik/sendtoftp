@@ -1,8 +1,8 @@
 @echo off
 echo user YOUR_USERNAME> ftpcmd.dat
 echo YOUR_PASSWORD>> ftpcmd.dat
-echo cd public_html>> ftpcmd.dat
-echo cd pdfs_temp>> ftpcmd.dat
+echo cd your_public_html_folder>> ftpcmd.dat
+echo cd your_pdfs_folder>> ftpcmd.dat
 echo bin>> ftpcmd.dat
 echo put %1>> ftpcmd.dat
 echo quit>> ftpcmd.dat
